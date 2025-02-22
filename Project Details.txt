@@ -1,0 +1,54 @@
+Name: Loan Officer Data Extraction from Finance Sites
+
+Link: https://www.freelancer.com/projects/web-scraping/Loan-Officer-Data-Extraction-from?sb=t
+
+Details: Project Overview
+I am looking for a data extraction solution that can scrape loan officer contact information from various websites.
+
+? Reference Website:
+https://www.coast2coastmortgage.com/staff-roster?page=1
+and
+https://schaffermortgage.zipforhome.com/CompanySite/LoanOfficers
+
+The extracted data should include:
+
+Full Name
+Phone Number
+Email Address
+NMLS ID (if available – this is a unique identifier for loan officers)
+
+Additionally, some companies (like the reference website) have multiple subpages—this specific site has 11 subpages, each containing 20 to 30 contacts. The scraping solution must navigate through all subpages and collect the required data accurately.
+
+The final dataset should be structured and delivered in one of the following formats:
+✅ CSV (Preferred)
+✅ Excel
+✅ JSON (if API integration is available)
+
+? Key Requirements
+✅ Extract the following details from each loan officer profile:
+
+Full Name
+Phone Number
+Email Address
+NMLS ID (if available)
+✅ Handle JavaScript-Rendered Content:
+
+Ensure all contact details are retrieved, even if the site uses JavaScript rendering, obfuscation, or both to display data.
+✅ Automated vs. One-Time Extraction:
+
+Open to both a one-time data extraction and an ongoing automated solution for future updates.
+✅ Data Accuracy & Mapping:
+
+Ensure all extracted data is correctly matched to the right individual and structured properly.
+
+Ideal Skills:
+- Proficient in web scraping tools and techniques
+- Experience with data extraction from financial websites
+- Knowledge of data handling and Excel
+
+Please ensure the extracted information is delivered in a well-organized
+
+Thanks
+
+My YouTube Video: 
+
