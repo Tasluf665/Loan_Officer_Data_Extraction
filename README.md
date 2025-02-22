@@ -51,7 +51,7 @@ To start scraping loan officer data, follow these steps:
 1️⃣ **Execute the script** by running the following command:
 
 ```bash
-node scrape.js
+node index.js
 ```
 
 ## Contact
