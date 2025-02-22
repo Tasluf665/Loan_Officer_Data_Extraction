@@ -42,7 +42,7 @@ Before running the scraper, set up your **2Captcha API key**:
 2️⃣ **Add the following line** inside the `.env` file:
 
 ```ini
-CAPTCHA_API_KEY=your_2captcha_api_key
+APIKEY=your_2captcha_api_key
 ```
 
 ## Run the Scraper
